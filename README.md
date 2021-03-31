@@ -1,8 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HeeJin%20Sung&fontSize=70)
 
+<br>
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">
+
+<br>
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/css-3766AB?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
+
 
 <!--
 **heejinsung/heejinsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
